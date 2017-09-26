@@ -1,13 +1,2 @@
 # ADBPremiereFinalProject
-
-## Synopsis
-
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
-
-## Code Example
-
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
-
-## Motivation
-
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+I used this project to strengthen my databased security skills. The database is designed with users and roles and various permissions assigned to certain roles. The goal was to limit users' access to the database by assigning them permissions to parts required for users' tasks. Users are required to login to perform changes to the database, and the database authenticates users. 
